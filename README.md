@@ -39,7 +39,7 @@ Contents
 
 ## Live Demo / Preview
 
-Preview locally (instructions below) or deploy to any static host (Netlify, Vercel, GitHub Pages).
+Live Demo : https://kxnux-builds.github.io/Kxnux-auth-ui/
 
 ---
 
