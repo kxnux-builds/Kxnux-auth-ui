@@ -162,14 +162,18 @@ Security (Front-end)
 
 ---
 
-## License
+## Credits & Links
 
-This project is distributed under the MIT License — see [LICENSE](LICENSE) for details.
+- Author: Kishanu Mondal
+- GitHub: https://github.com/kxnux-builds
+- LinkedIn: https://www.linkedin.com/in/kishanu-mondal/
+- X (Twitter): https://x.com/Kxnux_Dev
 
 ---
 
-## Contact / Author
+## License
 
-KISHANU MONDAL — copyright 2026
+See the LICENSE file for license details:
+[LICENSE](./LICENSE)
 
 ---
